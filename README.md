@@ -1,4 +1,4 @@
-# ![logo](assets\drone_icon.png) BBUAV GCS Support
+# ![logo](assets\bbuav.jpg) BBUAV GCS Support
 
 BBUAV GCS Support is a ground control station application designed to provide comprehensive support and control for unmanned aerial vehicles (UAVs) or drones. The project aims to offer a user-friendly interface that facilitates mission planning, monitoring, and weather information retrieval for drone operations.
 
